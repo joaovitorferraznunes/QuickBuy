@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuickBuy.Dominio", "QuickBu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuckBuy.Repositorio", "QuckBuy.Repositorio\QuckBuy.Repositorio.csproj", "{5339188B-9872-49A5-9E02-BFF3BB3C160F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuickBuy.Webs", "QuickBuy.Webs\QuickBuy.Webs.csproj", "{91366DEB-2828-4722-8699-E88694AE6C3E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuickBuy.Web", "QuickBuy.Web\QuickBuy.Web.csproj", "{2944C70E-6839-4448-8914-30FA0B0BA01E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{5339188B-9872-49A5-9E02-BFF3BB3C160F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5339188B-9872-49A5-9E02-BFF3BB3C160F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5339188B-9872-49A5-9E02-BFF3BB3C160F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{91366DEB-2828-4722-8699-E88694AE6C3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{91366DEB-2828-4722-8699-E88694AE6C3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{91366DEB-2828-4722-8699-E88694AE6C3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{91366DEB-2828-4722-8699-E88694AE6C3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2944C70E-6839-4448-8914-30FA0B0BA01E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2944C70E-6839-4448-8914-30FA0B0BA01E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2944C70E-6839-4448-8914-30FA0B0BA01E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2944C70E-6839-4448-8914-30FA0B0BA01E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
