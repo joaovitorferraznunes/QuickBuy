@@ -31,9 +31,12 @@ namespace QuickBuy.Dominio.Entidades
 
             if (!ItensPedido.Any())
                 AdicionarCritica("Erro - Pedido nao pode ficar sem iten de pedido");
+
             if (string.IsNullOrEmpty(CEP))
                 AdicionarCritica("Erro - CEP deve estar preenchido");
 
+            if (FormaPagamentoId == 0)
+                AdicionarCritica("Crítica - Não foi informado a forma de pagamento");
 
         }
 
