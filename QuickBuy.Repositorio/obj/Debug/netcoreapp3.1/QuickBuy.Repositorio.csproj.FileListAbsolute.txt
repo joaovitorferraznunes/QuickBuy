@@ -5,3 +5,4 @@ C:\Users\joaov\source\repos\QuickBuy\QuickBuy.Repositorio\obj\Debug\netcoreapp3.
 C:\Users\joaov\source\repos\QuickBuy\QuickBuy.Repositorio\obj\Debug\netcoreapp3.1\QuickBuy.Repositorio.AssemblyInfo.cs
 C:\Users\joaov\source\repos\QuickBuy\QuickBuy.Repositorio\obj\Debug\netcoreapp3.1\QuickBuy.Repositorio.dll
 C:\Users\joaov\source\repos\QuickBuy\QuickBuy.Repositorio\obj\Debug\netcoreapp3.1\QuickBuy.Repositorio.pdb
+C:\Users\joaov\source\repos\QuickBuy\QuickBuy.Repositorio\obj\Debug\netcoreapp3.1\QuickBuy.Repositorio.csprojAssemblyReference.cache
