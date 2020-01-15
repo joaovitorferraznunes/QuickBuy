@@ -4,7 +4,7 @@ using QuickBuy.Dominio.Entidades;
 
 namespace QuickBuy.Repositorio.Config
 {
-    public class UsuarioConfiguraition : IEntityTypeConfiguration<Usuario>
+    public class UsuarioConfiguration : IEntityTypeConfiguration<Usuario>
     {
         public void Configure(EntityTypeBuilder<Usuario> builder)
         {
