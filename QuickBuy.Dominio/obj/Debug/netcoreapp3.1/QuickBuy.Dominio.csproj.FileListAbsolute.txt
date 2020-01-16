@@ -5,3 +5,5 @@ C:\Users\joaov\source\repos\QuickBuy\QuickBuy.Dominio\obj\Debug\netcoreapp3.1\Qu
 C:\Users\joaov\source\repos\QuickBuy\QuickBuy.Dominio\obj\Debug\netcoreapp3.1\QuickBuy.Dominio.AssemblyInfo.cs
 C:\Users\joaov\source\repos\QuickBuy\QuickBuy.Dominio\obj\Debug\netcoreapp3.1\QuickBuy.Dominio.dll
 C:\Users\joaov\source\repos\QuickBuy\QuickBuy.Dominio\obj\Debug\netcoreapp3.1\QuickBuy.Dominio.pdb
+C:\Users\joaov\source\repos\QuickBuy\QuickBuy.Dominio\bin\Debug\netcoreapp3.1\QuickBuy.Dominio.runtimeconfig.json
+C:\Users\joaov\source\repos\QuickBuy\QuickBuy.Dominio\bin\Debug\netcoreapp3.1\QuickBuy.Dominio.runtimeconfig.dev.json
