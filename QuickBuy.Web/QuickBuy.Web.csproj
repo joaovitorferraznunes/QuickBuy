@@ -28,7 +28,15 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Remove="ClientApp\Produto\produto.component.ts" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\QuickBuy.Repositorio\QuickBuy.Repositorio.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <TypeScriptCompile Include="ClientApp\Produto\produto.component.ts" />
   </ItemGroup>
 
   <ItemGroup>
