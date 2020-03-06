@@ -28,7 +28,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Remove="ClientApp\Produto\produto.component.ts" />
+    <None Remove="ClientApp\produto\produto.component.ts" />
   </ItemGroup>
 
   <ItemGroup>
@@ -36,7 +36,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <TypeScriptCompile Include="ClientApp\Produto\produto.component.ts" />
+    <TypeScriptCompile Include="ClientApp\produto\produto.component.ts" />
   </ItemGroup>
 
   <ItemGroup>
